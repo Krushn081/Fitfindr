@@ -1,0 +1,24 @@
+{
+  "name": "fitfinder",
+  "version": "1.0.0",
+  "description": "A location-based fitness discovery platform.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build script not defined'"
+  },
+  "keywords": [
+    "fitness",
+    "discovery",
+    "location-based",
+    "gym",
+    "yoga",
+    "dance"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
